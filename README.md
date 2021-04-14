@@ -50,6 +50,11 @@ Note- Cn:Jn (n is the No. of columns)
 - Single color: Under "Format cells if," choose the condition that you want to trigger the rule. Under "Formatting style, choose what the cell will look like when conditions are met.
 - click the Down arrow Down Arrow.
 - Click Done.
+
+## Test Result
+
+- In test 1 I get the desired output and it's updating on live time if we change some values on live time.
+- In test 2 I fail to get desired output 
 ## Conclusion
 I Learn from this task how we can make or a edit spreedsheets. How we can apply formula and function (Array function, sum, countif, and counta) to get easy our task 
 
