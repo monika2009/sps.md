@@ -9,10 +9,10 @@
 - Set another formula to get entire row  colour **Red** if avarage value equal to or less then 2.5
 
 ## Test Case
-| Task | Desired Output | Actual Output  | Test Status |
-|------|----------------|----------------|-------------|
-| Set a formula to get avarage in avarage columns | Get exect avarage in avarage columns | getting exect avarage in avarage columns | Pass |
-| Set a formula to get entire **row**  colour **Red** if avarage value equal to or less then 2.5 | Row  colour **Red** if avarage value equal to or less then 2.5 | Only avarage **columns Red** if avarage value equal to or less then 2.5 | Fail |
+|S/No.| Task | Desired Output | Actual Output  | Test Status |
+|-----|------|----------------|----------------|-------------|
+|1|| Set a formula to get avarage in avarage columns | Get exect avarage in avarage columns | getting exect avarage in avarage columns | Pass |
+|2|| Set a formula to get entire **row**  colour **Red** if avarage value equal to or less then 2.5 | Row  colour **Red** if avarage value equal to or less then 2.5 | Only avarage **columns Red** if avarage value equal to or less then 2.5 | Fail |
 
 ## Formula used To get the Desired Output
 ### A.) Get exect avarage in avarage columns
