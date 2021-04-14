@@ -20,7 +20,7 @@
 =ArrayFormula(SUM(COUNTIF(Cn:Jn,{"Excellent","Very good","Good","Satisfactory","Fair","Poor"})*{5,4,3,2,1,0}))/COUNTA(Cn:Jn)
 ```
 ```sh
-Note- n is the No. of columns
+Note- Cn:Jn (n is the No. of columns)
 ```
 #### Explanation of formula 
 - **_Array Function_**
