@@ -41,6 +41,15 @@ Note- n is the No. of columns
 ```
 ### B.) Set another formula to get entire row  colour **Red** if avarage value equal to or less then 2.5
 
+- open a spreadsheet in Google Sheets.
+- Select the cells you want to apply format rules to.
+- Click Format and then Conditional formatting. A toolbar will open to the right.
+- Create a rule.
+- In rule condition select less then or equal to 2.5
+- Select colour Red
+- Single color: Under "Format cells if," choose the condition that you want to trigger the rule. Under "Formatting style, choose what the cell will look like when conditions are met.
+- click the Down arrow Down Arrow.
+- Click Done.
 
 
 
