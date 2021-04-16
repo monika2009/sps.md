@@ -1,0 +1,66 @@
+Name: Himanshu Gupta
+Average: 0
+Sum: 0
+Name: Habib Ali
+Average: 0
+Sum: 0
+Name: Anil Sharma
+Average: 0
+Sum: 0
+Name: Sonu Singh
+Average: 0
+Sum: 0
+Name: Ranveer Singh
+Average: 3.125
+Sum: 25
+Name: Somesh Kumar
+Average: 4.25
+Sum: 34
+Name: Harsh kumar
+Average: 3.5
+Sum: 28
+Name: SK Sahjahan
+Average: 4.375
+Sum: 35
+Name: Harikesh
+Average: 0
+Sum: 0
+Name: Hinamshu Pundir
+Average: 0
+Sum: 0
+Name: Dharamveer
+Average: 4
+Sum: 32
+Name: Rishabh
+Average: 3.5
+Sum: 28
+Name: Pravesh Singh
+Average: 3.875
+Sum: 31
+Name: Aman Jha
+Average: 3.625
+Sum: 29
+Name: Pawan Kumar
+Average: 3
+Sum: 24
+Name: Tarun Kumar
+Average: 0
+Sum: 0
+Name: Bittu(OPJ)
+Average: 3.875
+Sum: 31
+Name: Aayon Mukherjee
+Average: 3.875
+Sum: 31
+Name: Ankit
+Average: 2.5
+Sum: 20
+Name: Vaibhav Vats
+Average: 4.25
+Sum: 34
+Name: Shweta Mishra
+Average: 3.125
+Sum: 25
+Name: Amandeep
+Average: 4
+Sum: 32
